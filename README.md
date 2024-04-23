@@ -8,7 +8,7 @@
 1. **Pinecone** http://www.pinecone.io  
 Pinecone es una base de datos vectorial en la nube gestionada a través de una sencilla API y que no requiere configuración de infraestructura.
 Pinecone procesa los datos con rapidez y permite a los usuarios emplear filtros de metadatos y compatibilidad con índices dispersos y densos, lo que garantiza resultados precisos y rápidos en los distintos requisitos de búsqueda.  
-[Código de ejemplo]  
+[Pinecone demo](PineconeDemo_VectorDatabases.ipynb)  
 
 2. **Chroma** (https://www.trychroma.com/)  
 Chroma es una base de datos de incrustación de código abierto diseñada para simplificar el desarrollo de aplicaciones LLM (Large Language Model).  Su principal objetivo es facilitar la integración de conocimientos, hechos y habilidades para los LLM.  
