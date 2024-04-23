@@ -1,3 +1,5 @@
+¡[] https://thedataquarry.com/posts/vector-db-4/vector-db-hosting-2.png
+
 # Bases de datos vectoriales
 ## Set de ejemplos básicos 
 1. **Pinecone** http://www.pinecone.io  
