@@ -1,5 +1,10 @@
 # Bases de datos vectoriales
-## Set de ejemplos básicos 
+
+<img src="https://thedataquarry.com/posts/vector-db-4/vector-db-hosting-2.png" width=800 height=500>
+  
+
+## Set de ejemplos básicos  
+
 1. **Pinecone** http://www.pinecone.io  
 Pinecone es una base de datos vectorial en la nube gestionada a través de una sencilla API y que no requiere configuración de infraestructura.
 Pinecone procesa los datos con rapidez y permite a los usuarios emplear filtros de metadatos y compatibilidad con índices dispersos y densos, lo que garantiza resultados precisos y rápidos en los distintos requisitos de búsqueda.  
